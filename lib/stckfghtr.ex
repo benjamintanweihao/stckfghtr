@@ -1,0 +1,2 @@
+defmodule Stckfghtr do
+end
